@@ -16,7 +16,7 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 **Documentation**: Provide clear documentation the data model to support both business stakeholders and analytics teams.
 
 ---
-I
+
 ### BI: Analytics & Reporting (Data Analytics)
 
 #### Objective
@@ -28,8 +28,9 @@ These insights empower stakeholders with key business metrics, enabling strategi
 
 ---
 
-####License
+###License
 This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
 
-####About me
+###About me
 Hi there! I'm **Vansh Singh**, I'm an IT professional and Aspiring **Data Engineer** on a mission to share knowledge and make working with data enjoyable and engaging!
+
